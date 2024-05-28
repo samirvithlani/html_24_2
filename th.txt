@@ -1,0 +1,55 @@
+MOBILE DEV:
+	mobile app :- java,cotlin..
+WEB :
+	websites   :- webpages
+
+	static web pages
+	dynamic web pages
+
+-----------------------------------------
+HTML MARKUP LANG
+html only support
+
+---------------------------
+HTML5 2014
+HTML4 
+--------------------------------------------------
+VS_CODE download:
+
+.c
+.html
+
+tags
+<h1></h1>
+
+-----------------------------------------------------
+
+<b> BOLD
+<i> italic
+<emp> EMPHASIS
+<mark> MARK
+<del> DELETE
+<ins> INSERT
+<u> UNDERLINE
+<strong> STRONG
+<small>
+<sub> SUBSCRIPT
+<sup> SUPERSCRIPT
+<pre> PRE
+-----------------------------------------------------
+
+ordered list : ol
+unordered list : ul
+list : li
+
+
+
+
+
+
+
+
+
+
+
+
