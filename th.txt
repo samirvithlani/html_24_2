@@ -42,6 +42,21 @@ ordered list : ol
 unordered list : ul
 list : li
 
+--------------------------------------------------
+a tag
+<a> ANCHOR
+href : hyperlink reference
+target :
+
+4 types of taget
+_self  : same tab
+_blank : new tab
+_parent : parent tab : what is parent tab: parent tab is the tab which is open the current tab
+_top
+
+
+href : url 
+
 
 
 
