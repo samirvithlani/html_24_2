@@ -1,0 +1,6 @@
+task 1:
+
+create 4 links
+1st page printfDemo
+2nd page scanfDemo
+3 opoeratorsDemo
