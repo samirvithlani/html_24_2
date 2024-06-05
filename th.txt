@@ -64,6 +64,8 @@ tr : table row
 th : table heading
 td : table data
 
+C:/user/Dektop/abc.jpg
+
 
 
 
