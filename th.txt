@@ -66,6 +66,13 @@ td : table data
 
 C:/user/Dektop/abc.jpg
 
+---------------------------------
+identifiers
+id: unique
+name : not unique
+class : not unique
+tagname : not unique
+
 
 
 
