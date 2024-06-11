@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1oIBdFIuTjW8F3OH6J5uoiS4cwzA_63vlVb6sC_GuGA0/edit?addon_store#heading=h.ur4yq9g99b2l
+
 MOBILE DEV:
 	mobile app :- java,cotlin..
 WEB :
@@ -73,7 +75,19 @@ name : not unique
 class : not unique
 tagname : not unique
 
+----------------------
 
+video <tag>
+
+attributes
+src : source
+height
+width
+controls
+poster
+autoplay
+loop
+preload
 
 
 
