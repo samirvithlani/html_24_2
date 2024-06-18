@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="./form.js"></script>
+  </head>
+  <body>
+    <!-- action - url -->
+    <!-- <form action="https://www.google.com"> -->
+    <div>
+      <form onsubmit="getData(event)">
+        <div>
+            <label>FIRST NAME</label>
+            <input type="text" name="fname" id="fname">
+        </div>
+        <div>
+            <label>AGE</label>
+            <input type="number" name="age" id="age">
+        </div>
+        <div>
+            <label>EMAIL</label>
+            <input type="email">
+        </div>
+        <div>
+            <label>PASSWORD</label>
+            <input type="password">
+        </div>
+        <div>
+            <label>GENDER</label>
+            MALE : <input type="radio" value="male" name="gender" >
+            FEMALE: <input type="radio" value="female" name="gender" >
+        </div>
+        <div>
+            <label>SKILLS</label>
+            HTML : <input type="checkbox" value="html" name="skills">
+            CSS : <input type="checkbox" value="css" name="skills">
+            JS : <input type="checkbox" value="js" name="skills">
+        </div>
+        <div>
+            <label>COUNTRY</label>
+            <select>
+                <option>SELECT COUNTRY</option>
+                <option value="india">INDIA</option>
+                <option value="usa">USA</option>
+                <option value="uk">UK</option>
+            </select>
+        </div>
+        <div>
+            <label>ADDRESS</label>
+            <textarea rows="3"></textarea>
+        </div>
+        
+
+        <input type="submit" value="submit" />
+      </form>
+    </div>
+
+
+  </body>
+</html>
